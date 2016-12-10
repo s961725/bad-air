@@ -1,0 +1,1 @@
+@java -jar jp1.jar
